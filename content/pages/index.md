@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: 'Welcome to the official website of British tuba player '
+    title: >-
+      Welcome to the official website of British tuba player Ramon Branch
+      Biescas
     subtitle: '                                                   '
     styles:
       self:
