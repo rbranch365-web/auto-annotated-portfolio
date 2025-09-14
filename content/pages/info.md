@@ -250,18 +250,25 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **2025**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   MMus, Orchestral Artistry at the Guildhall School of Music and
+          Drama
 
-          * react certificate somewhere
 
-          **2011**
+          **2019**
 
-          * my highschool
+
+          *   BMus Guildall School of Music and Drama
+
+
+          **2017**
+
+
+          *   Purcell School
+
         styles:
           self:
             textAlign: left
