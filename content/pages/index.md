@@ -81,7 +81,7 @@ sections:
           - pr-4
         textAlign: center
   - type: TextSection
-    title: The Section Title
+    title: About
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
