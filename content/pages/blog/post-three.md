@@ -4,7 +4,7 @@ title: Vila-Seca tuba recital
 colors: colors-b
 date: '2025-11-09'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
