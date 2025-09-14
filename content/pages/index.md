@@ -39,7 +39,7 @@ sections:
                                                          Lovely tuba player that not only has the technical ability but very musical too. -
 
   - type: MediaGallerySection
-    title: Ramon Branch Biescas
+    title: ''
     subtitle: British Tuba player
     images:
       - type: ImageBlock
