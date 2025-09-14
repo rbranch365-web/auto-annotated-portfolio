@@ -15,7 +15,7 @@ sections:
     backgroundSize: inset
     title: >-
       Welcome to the official website of British tuba player Ramon Branch
-      Biescas
+      Biescas.
     subtitle: '                                                   '
     styles:
       self:
