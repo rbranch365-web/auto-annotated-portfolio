@@ -29,7 +29,7 @@ bottomSections:
           - pr-4
           - pl-4
         textAlign: left
-    showFeaturedImage: true
+    showFeaturedImage: false
     showReadMoreLink: false
   - type: ContactSection
     backgroundSize: full
