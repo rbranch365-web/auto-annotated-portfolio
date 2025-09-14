@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-a
     backgroundSize: full
     title: >-
       Welcome to the official website of British tuba, organist and singer
