@@ -40,7 +40,7 @@ sections:
 
   - type: MediaGallerySection
     title: ''
-    subtitle: British Tuba player
+    subtitle: ''
     images:
       - type: ImageBlock
         url: >-
