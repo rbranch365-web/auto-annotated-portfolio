@@ -35,13 +35,10 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-    text: >
-      ```
-
-      Lovely tuba player that not only has the technical ability but very
+    text: >+
+      ###### Lovely tuba player that not only has the technical ability but very
       musical too. -
 
-      ```
   - type: MediaGallerySection
     title: ''
     subtitle: ''
