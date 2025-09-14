@@ -16,7 +16,7 @@ sections:
     title: >-
       Welcome to the official website of British tuba, organist and singer
       Ramon.
-    subtitle: '                                                   Lovely tuba player that not only has the technical ability but very musical too. -'
+    subtitle: '                                                   '
     styles:
       self:
         height: auto
