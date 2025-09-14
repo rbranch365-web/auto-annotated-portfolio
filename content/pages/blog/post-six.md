@@ -4,7 +4,7 @@ title: Dido and Aeneas at St Mary's Hendon
 colors: colors-a
 date: '2025-09-20'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
