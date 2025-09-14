@@ -30,7 +30,7 @@ bottomSections:
           - pl-4
         textAlign: left
     showFeaturedImage: true
-    showReadMoreLink: true
+    showReadMoreLink: false
   - type: ContactSection
     backgroundSize: full
     title: Stay up-to-date with my words ✍️
