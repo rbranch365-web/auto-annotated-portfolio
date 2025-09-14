@@ -141,7 +141,7 @@ sections:
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
-    variant: variant-a
+    variant: variant-d
     subtitle: Concerts
     showFeaturedImage: false
     actions:
