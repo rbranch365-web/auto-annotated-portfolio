@@ -44,8 +44,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/2023ARB__MG_4741.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
