@@ -82,13 +82,49 @@ sections:
         textAlign: center
   - type: TextSection
     title: About
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      ##### Ramon Branch Biescas was born in Tarragona, Spain in 2001. He began
+      his musical journey at a young age, attending the choir school Escolania
+      de Montserrat in Catalonia, where he received most of his early musical
+      training. During his time there, he studied piano with Vicenç Prunés for
+      four years and organ with Merce Sanchís for three years. As part of the
+      choir, he performed in countries including Russia, France, the United
+      States, Poland, Germany, China, and many regions across Catalonia.
+
+
+      ##### Later, he moved to the United Kingdom to continue both his academic
+      and musical education at Lancing College, where he studied organ with Neil
+      Cox and piano with Adrian West. At the age of fourteen, he began learning
+      the tuba with Dave Whitson and, a year later, was accepted into the Junior
+      Royal Academy of Music to study with Stephen Wick. Following his GCSEs,
+      Ramon attended the Purcell School for Young Musicians, where he continued
+      to grow as a tuba player while maintaining his skills on other
+      instruments. During this time, he gained a wide range of performance
+      experience and developed as a well-rounded musician. He achieved high
+      distinction in all his Grade 8 ABRSM exams and is now working towards his
+      diplomas in singing and organ.
+
+
+      ##### Ramon has performed with a variety of orchestras including the
+      London Symphony Orchestra, London Lawyers Symphony Orchestra, Fidelio
+      Symphony Orchestra, Junior Academy Symphony Orchestra, Purcell School
+      Symphony Orchestra, Jove Orquestra Nacional de Catalunya, and the
+      Guildhall Symphony Orchestra. He is currently studying with Ben Thomson,
+      Principal Tuba of the London Symphony Orchestra, and Kevin Morgan,
+      Principal Tuba of the Royal Philharmonic Orchestra.
+
+
+      ##### Alongside his tuba studies, Ramon continues to nurture his other
+      musical talents. He is receiving second-study singing lessons with Adrian
+      Thompson, sings as a choral scholar at St Mary’s Hendon, and regularly
+      plays the organ at churches across London. He is also an active chamber
+      musician, performing with the Heron Brass Quintet, who recently reached
+      the semifinal round of the Royal Over-Seas League Competition.
+
+
+      ##### Having finished his master’s studies, Ramon is now looking forward
+      to working as a freelance musician and offering private music teaching
+
     colors: colors-f
     variant: variant-b
     elementId: ''
