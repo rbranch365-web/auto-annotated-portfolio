@@ -81,5 +81,9 @@ bottomSections:
         flexDirection: row
         textAlign: left
 addTitleSuffix: false
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
 Get tickets here: https\://www\.eventbrite.com/e/dido-aeneas-by-henry-purcell-tickets-1646805643009
