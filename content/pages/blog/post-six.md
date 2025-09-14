@@ -2,7 +2,7 @@
 type: PostLayout
 title: "How to Structure and Organize a Next.js Project \U0001F5C2️"
 colors: colors-a
-date: '2025-09-03'
+date: '2025-09-20'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
