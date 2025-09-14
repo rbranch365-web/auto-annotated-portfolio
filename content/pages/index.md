@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: MediaGallerySection
     title: Ramon Branch Biescas
-    subtitle: This is the subtitle
+    subtitle: British Tuba player
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
