@@ -54,14 +54,14 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/IMGL2034.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/IMGL2144.jpg
         altText: Image two
         caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMGL2034.jpg
+        altText: Image one
+        caption: Image one caption
         elementId: ''
     colors: colors-f
     spacing: 16
