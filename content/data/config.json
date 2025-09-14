@@ -76,7 +76,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "",
             "phoneNumber": "rbranchbiescass@gmail.com",
             "phoneAltText": "email",
             "email": "rbranchbiescass@gmail.com",
