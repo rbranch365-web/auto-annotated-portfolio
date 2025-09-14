@@ -135,7 +135,7 @@ sections:
           - pr-4
         textAlign: left
   - type: ContactSection
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
     title: Contact
     form:
