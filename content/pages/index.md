@@ -35,6 +35,9 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: |2+
+                                                         Lovely tuba player that not only has the technical ability but very musical too. -
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
