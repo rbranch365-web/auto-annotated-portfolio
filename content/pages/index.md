@@ -44,11 +44,6 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/2023ARB__MG_4741.jpg
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
         url: /images/IMGL2155.jpg
         altText: Image three
         caption: Image three caption
@@ -62,6 +57,11 @@ sections:
         url: /images/IMGL2034.jpg
         altText: Image one
         caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/2023ARB__MG_4741.jpg
+        altText: altText of the image
+        caption: Caption of the image
         elementId: ''
     colors: colors-f
     spacing: 16
