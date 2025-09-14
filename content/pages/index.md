@@ -17,9 +17,8 @@ sections:
       Welcome to the official website of British tuba, organist and singer
       Ramon.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Lovely tuba player that not only has the technical ability but very
+      musical too. -
     styles:
       self:
         height: auto
