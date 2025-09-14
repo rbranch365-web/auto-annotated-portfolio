@@ -78,7 +78,7 @@
             "type": "ContactBlock",
             "title": "",
             "phoneNumber": "",
-            "phoneAltText": "email",
+            "phoneAltText": "",
             "email": "rbranchbiescass@gmail.com",
             "emailAltText": "",
             "address": "",
