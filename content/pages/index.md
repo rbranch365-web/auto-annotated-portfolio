@@ -10,6 +10,34 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - elementId: ''
+    colors: colors-b
+    backgroundSize: inset
+    title: >-
+      Welcome to the official website of British tuba, organist and singer
+      Ramon.
+    subtitle: '                                                   '
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        flexDirection: row-reverse
+        textAlign: left
+    type: HeroSection
+    actions: []
+    text: |2+
+                                                         Lovely tuba player that not only has the technical ability but very musical too. -
+
   - type: MediaGallerySection
     title: Ramon Branch Biescas
     subtitle: British Tuba player
@@ -52,34 +80,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-  - elementId: ''
-    colors: colors-b
-    backgroundSize: inset
-    title: >-
-      Welcome to the official website of British tuba, organist and singer
-      Ramon.
-    subtitle: '                                                   '
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row-reverse
-        textAlign: left
-    type: HeroSection
-    actions: []
-    text: |2+
-                                                         Lovely tuba player that not only has the technical ability but very musical too. -
-
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
