@@ -2,7 +2,7 @@
 type: PostLayout
 title: Stour Valley Arts concert series
 colors: colors-a
-date: '2025-10-01'
+date: '2025-10-26'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
