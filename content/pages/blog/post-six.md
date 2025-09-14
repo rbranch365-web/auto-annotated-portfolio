@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Dido and Aeneas at St Mary's Hendon
-colors: colors-d
+colors: colors-b
 date: '2025-09-20'
 author: content/data/team/doris-soto.json
 excerpt: ''
