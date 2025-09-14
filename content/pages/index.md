@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: Welcome to the official website of British tuba player.
+    title: 'Welcome to the official website of British tuba player '
     subtitle: '                                                   '
     styles:
       self:
