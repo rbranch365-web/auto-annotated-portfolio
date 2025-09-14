@@ -49,7 +49,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/IMGL2034.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
