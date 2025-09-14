@@ -126,7 +126,7 @@ sections:
       to working as a freelance musician and offering private music teaching
 
     colors: colors-f
-    variant: variant-b
+    variant: variant-a
     elementId: ''
     styles:
       self:
